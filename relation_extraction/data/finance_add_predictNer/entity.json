@@ -1,0 +1,9 @@
+{
+    "时间": "time",
+    "地域": "location",
+    "人员": "person",
+    "公司企业": "org",
+    "产品": "product",
+    "业务": "service",
+    "行业": "industry"
+}
