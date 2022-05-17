@@ -93,10 +93,10 @@ Input data format is shown below. With the predicted result of entity extraction
 ```
 Use `run_relation.py` to train a relation model. Predicted results will be saved in `results/{dataset_name}/result.json`.
 ```
-python Run_addMarker.py 
-    --dataset finance_add_predictNer 
-    --batch_size 16 
-    --h_bar 0.5 
+python Run_addMarker.py \
+    --dataset finance_add_predictNer \
+    --batch_size 16 \
+    --h_bar 0.5 \
     --t_bar 0.5
 ```
 
