@@ -105,3 +105,6 @@ Arguments:
 * `--batch_size`: the batch size when training the model.
 * `--h_bar`: the threshold of the probability to predict a head entity. 
 * `--t_bar`: the threshold of the probability to predict a tail entity. 
+
+## Support or Contact
+FR3E is developed at SCTS&CGCL Lab (http://grid.hust.edu.cn/) by Weihao Wang, Mengfan Li and Xuanhua Shi. For any questions, please contact Weihao Wang (whwang2020@hust.edu.cn), Mengfan Li (mengfanli1024@gmail.com) and Xuanhua Shi (xhshi@hust.edu.cn).
